@@ -16,4 +16,4 @@ To get started with this project, clone the repository and follow the guidance p
 - Databricks Workspace with Unity Catalog Enabled.
 - Azure Event Hubs Service.
 - Power BI Desktop (Windows).
-- Familiarity with Python, Spark, SQL, and basic data engineering concepts.
+- Familiarity with Python, Spark, SQL, and basic data engineering concepts...
